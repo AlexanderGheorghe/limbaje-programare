@@ -2279,14 +2279,9 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#ParadigmăFuncțională"/>
+        <NamedIndividual IRI="#ParadigmăProcedurală"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
@@ -2424,6 +2419,21 @@
         <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#ParadigmăFuncțională"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#ParadigmăMultiparadigmă"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
@@ -2437,6 +2447,51 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăComponentă"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#TipBoolean"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#TipFlotanta"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#TipIntreg"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#TipSirCaractere"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Haskell"/>
+        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
@@ -2586,6 +2641,16 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
+        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Python"/>
+        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Python"/>
         <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
