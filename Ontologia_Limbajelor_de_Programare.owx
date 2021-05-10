@@ -433,7 +433,7 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#iSeAplicaProcesarea"/>
@@ -529,58 +529,58 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Thomas_E._Kurtz"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Haskell"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/JavaScript"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Kotlin"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Haskell"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_JavaScript"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Kotlin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_MATLAB"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/MATLAB"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Pharo"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Pharo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Prolog"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Prolog"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Python"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Python"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Ruby"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ruby"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Rust"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Rust"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Swift"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Swift"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_TypeScript"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/TypeScript"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/VB.NET"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_VB.NET"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
@@ -593,6 +593,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
@@ -655,7 +658,7 @@
         <NamedIndividual IRI="#InstrucțiuniSimple"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#MongoDB"/>
+        <NamedIndividual IRI="#Limbajul_MongoDB"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#OperatorAdunare"/>
@@ -821,7 +824,7 @@
         <Class IRI="http://webprotege.stanford.edu/ALTER"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -839,7 +842,7 @@
         <Class IRI="http://webprotege.stanford.edu/ANALYZE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -857,7 +860,7 @@
         <Class IRI="http://webprotege.stanford.edu/AUDIT"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -926,7 +929,7 @@
         <Class IRI="http://webprotege.stanford.edu/COMMIT"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -944,7 +947,7 @@
         <Class IRI="http://webprotege.stanford.edu/CREATE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1026,7 +1029,7 @@
         <Class IRI="http://webprotege.stanford.edu/DELETE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1044,7 +1047,7 @@
         <Class IRI="http://webprotege.stanford.edu/DROP"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1091,7 +1094,7 @@
         <Class IRI="http://webprotege.stanford.edu/EXPLAIN_PLAN"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1133,7 +1136,7 @@
         <Class IRI="http://webprotege.stanford.edu/GRANT_SI_INVOKE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1159,7 +1162,7 @@
         <Class IRI="http://webprotege.stanford.edu/INSERT"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1313,7 +1316,7 @@
         <Class IRI="http://webprotege.stanford.edu/RENAME"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1331,7 +1334,7 @@
         <Class IRI="http://webprotege.stanford.edu/ROLES"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1349,7 +1352,7 @@
         <Class IRI="http://webprotege.stanford.edu/ROLLBACK"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1383,7 +1386,7 @@
         <Class IRI="http://webprotege.stanford.edu/SELECT"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1401,7 +1404,7 @@
         <Class IRI="http://webprotege.stanford.edu/SET_TRANSACTION"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1443,7 +1446,7 @@
         <Class IRI="http://webprotege.stanford.edu/TRUNCATE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1473,7 +1476,7 @@
         <Class IRI="http://webprotege.stanford.edu/UPDATE"/>
         <ObjectHasValue>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+            <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         </ObjectHasValue>
     </SubClassOf>
     <SubClassOf>
@@ -1901,22 +1904,6 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Haskell"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/JavaScript"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Kotlin"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1925,7 +1912,27 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Haskell"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_JavaScript"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Kotlin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_MATLAB"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
@@ -1933,43 +1940,39 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/MATLAB"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Pharo"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Pharo"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Prolog"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Prolog"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Python"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Python"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Ruby"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ruby"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Rust"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Rust"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Swift"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Swift"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_TypeScript"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/TypeScript"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/VB.NET"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_VB.NET"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
@@ -1978,6 +1981,10 @@
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Abstractizare"/>
@@ -2045,14 +2052,14 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="#MongoDB"/>
+        <NamedIndividual IRI="#Limbajul_MongoDB"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
             <Class IRI="http://webprotege.stanford.edu/OrientataPeDate"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="#MongoDB"/>
+        <NamedIndividual IRI="#Limbajul_MongoDB"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Adunare"/>
@@ -2253,8 +2260,18 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Swift"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_Python"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
@@ -2265,21 +2282,6 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Rob_Pike"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
@@ -2422,6 +2424,21 @@
         <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Rob_Pike"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
@@ -2543,32 +2560,32 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#ParadigmăOrientatăPeTabele"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#InstrucțiuniManipulareDateSpecifice"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#InstrucțiuniManipulareDatesql"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#iSeAplicaProcesarea"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#iSeAplicaProcesarea"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
@@ -2659,7 +2676,12 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
         <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Haskell"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
@@ -2669,55 +2691,55 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
         <NamedIndividual IRI="#Autor_Raymond_F._Boyce"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
         <NamedIndividual IRI="#Concept_ClauzeSQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
         <NamedIndividual IRI="#Concept_ConstrângeriSQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
         <NamedIndividual IRI="#Concept_Interogare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
         <NamedIndividual IRI="#Concept_RDBMS"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
         <NamedIndividual IRI="#Concept_Tabel"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
         <NamedIndividual IRI="#Concept_Abstractizare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
         <NamedIndividual IRI="#Concept_Moștenire"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
         <NamedIndividual IRI="#Concept_Polimorfism"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
         <NamedIndividual IRI="#Concept_Încapsulare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <NamedIndividual IRI="#ParadigmăProcedurală"/>
         <NamedIndividual IRI="#ConcepteProcedurală"/>
     </ObjectPropertyAssertion>
@@ -2768,6 +2790,21 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1978</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#lunăNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#ziNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#anNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1941</Literal>
     </DataPropertyAssertion>
@@ -2785,6 +2822,21 @@
         <DataProperty IRI="#ziNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#anNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1956</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#lunăNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#ziNaștereAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">31</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
@@ -2873,17 +2925,17 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anAparițieLimbaj"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#lunăAparițieLimbaj"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#numeLimbajDeProgramare"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_SQL"/>
         <Literal>Structured Query Language</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
@@ -2950,6 +3002,26 @@
         <DataProperty IRI="#ziNaștereAutor"/>
         <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#anNaștereAutor"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1950</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#lunăNaștereAutor"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#numeAutor"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
+        <Literal>Lennart Augustsson</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#ziNaștereAutor"/>
+        <NamedIndividual IRI="#Autor_Lennart_Augustsson"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
@@ -3021,7 +3093,7 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăComponentă"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
@@ -3046,7 +3118,7 @@
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
@@ -3067,7 +3139,7 @@
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
+            <ObjectProperty IRI="#areConceptParadigma"/>
             <Class IRI="#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
@@ -3109,7 +3181,7 @@
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
+            <ObjectProperty IRI="#areConceptParadigma"/>
             <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
@@ -3170,7 +3242,7 @@
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
             <Class IRI="#Paradigma"/>
@@ -3296,9 +3368,9 @@
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="#areConceptParadigma"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
+            <ObjectProperty IRI="#areConceptParadigma"/>
             <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
@@ -3928,11 +4000,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Go</IRI>
-        <Literal xml:lang="ro">Go</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Group_By</IRI>
         <Literal xml:lang="ro">Group By</Literal>
     </AnnotationAssertion>
@@ -3940,11 +4007,6 @@
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
         <IRI>http://webprotege.stanford.edu/Group_By</IRI>
         <Literal>Într-o instrucțiune care conține funcții agregate, listează câmpurile care nu sunt rezumate în clauza SELECT.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Haskell</IRI>
-        <Literal xml:lang="ro">Haskell</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4028,16 +4090,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/JavaScript</IRI>
-        <Literal xml:lang="ro">JavaScript</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Kotlin</IRI>
-        <Literal xml:lang="ro">Kotlin</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Limbaj_C</IRI>
         <Literal xml:lang="ro">C</Literal>
     </AnnotationAssertion>
@@ -4048,8 +4100,33 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbaj_Go</IRI>
+        <Literal xml:lang="ro">Go</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbaj_Haskell</IRI>
+        <Literal xml:lang="ro">Haskell</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Limbaj_Java</IRI>
         <Literal xml:lang="ro">Java</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbaj_JavaScript</IRI>
+        <Literal xml:lang="ro">JavaScript</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbaj_Kotlin</IRI>
+        <Literal xml:lang="ro">Kotlin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbaj_MATLAB</IRI>
+        <Literal xml:lang="ro">MATLAB</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4058,13 +4135,53 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>http://webprotege.stanford.edu/Limbajul_SQL</IRI>
+        <IRI>http://webprotege.stanford.edu/Limbaj_SQL</IRI>
         <Literal>SQL- limbaj de interogare structurat - specific pentru manipularea datelor în sistemele de manipulare a bazelor de date relaționale (RDBMS), iar la origine este un limbaj bazat pe algebra relațională.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Limbajul_SQL</IRI>
+        <IRI>http://webprotege.stanford.edu/Limbaj_SQL</IRI>
         <Literal xml:lang="ro">SQL</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Pharo</IRI>
+        <Literal xml:lang="ro">Pharo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Prolog</IRI>
+        <Literal xml:lang="ro">Prolog</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Python</IRI>
+        <Literal xml:lang="ro">Python</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Ruby</IRI>
+        <Literal xml:lang="ro">Ruby</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Rust</IRI>
+        <Literal xml:lang="ro">Rust</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_Swift</IRI>
+        <Literal xml:lang="ro">Swift</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_TypeScript</IRI>
+        <Literal xml:lang="ro">TypeScript</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Limbajul_VB.NET</IRI>
+        <Literal xml:lang="ro">VB.NET</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4080,11 +4197,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Lung</IRI>
         <Literal xml:lang="ro">Lung</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/MATLAB</IRI>
-        <Literal xml:lang="ro">MATLAB</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4188,11 +4300,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Pharo</IRI>
-        <Literal xml:lang="ro">Pharo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Polimorfism</IRI>
         <Literal xml:lang="ro">Polimorfism</Literal>
     </AnnotationAssertion>
@@ -4220,16 +4327,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Procedurală</IRI>
         <Literal xml:lang="ro">Procedurală</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Prolog</IRI>
-        <Literal xml:lang="ro">Prolog</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Python</IRI>
-        <Literal xml:lang="ro">Python</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4293,16 +4390,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Ruby</IRI>
-        <Literal xml:lang="ro">Ruby</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Rust</IRI>
-        <Literal xml:lang="ro">Rust</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/SELECT</IRI>
         <Literal xml:lang="ro">SELECT</Literal>
     </AnnotationAssertion>
@@ -4363,11 +4450,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Swift</IRI>
-        <Literal xml:lang="ro">Swift</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/TRUNCATE</IRI>
         <Literal xml:lang="ro">TRUNCATE</Literal>
     </AnnotationAssertion>
@@ -4408,11 +4490,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/TypeScript</IRI>
-        <Literal xml:lang="ro">TypeScript</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/UNIQUE</IRI>
         <Literal xml:lang="ro">UNIQUE</Literal>
     </AnnotationAssertion>
@@ -4448,11 +4525,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/VB.NET</IRI>
-        <Literal xml:lang="ro">VB.NET</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Where</IRI>
         <Literal xml:lang="ro">Where</Literal>
     </AnnotationAssertion>
@@ -4464,7 +4536,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>http://webprotege.stanford.edu/corespundeUneiParadigme</IRI>
-        <Literal>Un limaj corespunde unei anume paradigme (minim)</Literal>
+        <Literal>Un limbaj corespunde unei anume paradigme (minim)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4628,7 +4700,7 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#MongoDB</IRI>
+        <IRI>#Limbajul_MongoDB</IRI>
         <Literal>MongoDB este o bază de date NoSQL open-source orientată pe documente;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -4638,12 +4710,12 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#areConcepParadigma</IRI>
-        <Literal xml:lang="ro">Un Concep Paradigmă descrie/ compuneParadigma.</Literal>
+        <IRI>#areConceptParadigma</IRI>
+        <Literal xml:lang="ro">Un Concept Paradigmă descrie/ compuneParadigma.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#areConcepParadigma</IRI>
+        <IRI>#areConceptParadigma</IRI>
         <Literal xml:lang="ro">descrieOParadigmă</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
