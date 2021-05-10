@@ -484,49 +484,61 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Chris_Lattner"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Grace_Hopper"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_Backus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_G._Kemeny"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_McCarthy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Larry_Wall"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Niklaus_Wirth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Rob_Pike"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Thomas_E._Kurtz"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Grace_Hopper"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Guido_van_Rossum"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Haskell"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/JavaScript"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_Backus"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_G._Kemeny"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_McCarthy"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ken_Thompson"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Kotlin"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Larry_Wall"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
@@ -547,9 +559,6 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/MATLAB"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Niklaus_Wirth"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Pharo"/>
     </Declaration>
     <Declaration>
@@ -559,12 +568,6 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Python"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Rob_Pike"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Robert_Griesemer"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Ruby"/>
     </Declaration>
     <Declaration>
@@ -572,9 +575,6 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Swift"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Thomas_E._Kurtz"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/TypeScript"/>
@@ -1841,63 +1841,79 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Chris_Lattner"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Chris_Lattner"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Grace_Hopper"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Guido_van_Rossum"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_Backus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_G._Kemeny"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_John_McCarthy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Larry_Wall"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Niklaus_Wirth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Rob_Pike"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/Autor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Thomas_E._Kurtz"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Grace_Hopper"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Guido_van_Rossum"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Haskell"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/JavaScript"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_Backus"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_G._Kemeny"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/John_McCarthy"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ken_Thompson"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Kotlin"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Larry_Wall"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
@@ -1924,10 +1940,6 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/MATLAB"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Niklaus_Wirth"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Pharo"/>
     </ClassAssertion>
@@ -1940,14 +1952,6 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Python"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Rob_Pike"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Robert_Griesemer"/>
-    </ClassAssertion>
-    <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Ruby"/>
     </ClassAssertion>
@@ -1958,10 +1962,6 @@
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Swift"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Thomas_E._Kurtz"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#LimbajDeProgramare"/>
@@ -2253,33 +2253,33 @@
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ken_Thompson"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Rob_Pike"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Robert_Griesemer"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Ken_Thompson"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Ken_Thompson"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Rob_Pike"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Robert_Griesemer"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
@@ -2289,7 +2289,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
@@ -2429,7 +2429,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
@@ -2748,62 +2748,62 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1942</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
         <Literal>Brian Kernighan</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1941</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal>Dennis Ritchie</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1955</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
         <Literal>James Arthur Gosling</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">19</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
@@ -3573,6 +3573,81 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Brian_Kernighan</IRI>
+        <Literal xml:lang="ro">Brian Kernighan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Chris_Lattner</IRI>
+        <Literal xml:lang="ro">Chris Lattner</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Dennis_Ritchie</IRI>
+        <Literal xml:lang="ro">Dennis Ritchie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Grace_Hopper</IRI>
+        <Literal xml:lang="ro">Grace Hopper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Guido_van_Rossum</IRI>
+        <Literal xml:lang="ro">Guido van Rossum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_James_Gosling</IRI>
+        <Literal xml:lang="ro">James Gosling</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_John_Backus</IRI>
+        <Literal xml:lang="ro">John Backus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_John_G._Kemeny</IRI>
+        <Literal xml:lang="ro">John G. Kemeny</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_John_McCarthy</IRI>
+        <Literal xml:lang="ro">John McCarthy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Ken_Thompson</IRI>
+        <Literal xml:lang="ro">Ken Thompson</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Larry_Wall</IRI>
+        <Literal xml:lang="ro">Larry Wall</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Niklaus_Wirth</IRI>
+        <Literal xml:lang="ro">Niklaus Wirth</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Rob_Pike</IRI>
+        <Literal xml:lang="ro">Rob Pike</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Robert_Griesemer</IRI>
+        <Literal xml:lang="ro">Robert Griesemer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Autor_Thomas_E._Kurtz</IRI>
+        <Literal xml:lang="ro">Thomas E. Kurtz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Binari</IRI>
         <Literal xml:lang="ro">Binari</Literal>
     </AnnotationAssertion>
@@ -3580,11 +3655,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Booleană</IRI>
         <Literal xml:lang="ro">Booleană</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Brian_Kernighan</IRI>
-        <Literal xml:lang="ro">Brian Kernighan</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3620,11 +3690,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Caracter</IRI>
         <Literal xml:lang="ro">Caracter</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Chris_Lattner</IRI>
-        <Literal xml:lang="ro">Chris Lattner</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3778,11 +3843,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Dennis_Ritchie</IRI>
-        <Literal xml:lang="ro">Dennis Ritchie</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/DeplasarePeBiți</IRI>
         <Literal xml:lang="ro">DeplasarePeBiți</Literal>
     </AnnotationAssertion>
@@ -3873,11 +3933,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Grace_Hopper</IRI>
-        <Literal xml:lang="ro">Grace Hopper</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Group_By</IRI>
         <Literal xml:lang="ro">Group By</Literal>
     </AnnotationAssertion>
@@ -3885,11 +3940,6 @@
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
         <IRI>http://webprotege.stanford.edu/Group_By</IRI>
         <Literal>Într-o instrucțiune care conține funcții agregate, listează câmpurile care nu sunt rezumate în clauza SELECT.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Guido_van_Rossum</IRI>
-        <Literal xml:lang="ro">Guido van Rossum</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3978,43 +4028,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/James_Gosling</IRI>
-        <Literal xml:lang="ro">James Gosling</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/JavaScript</IRI>
         <Literal xml:lang="ro">JavaScript</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/John_Backus</IRI>
-        <Literal xml:lang="ro">John Backus</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/John_G._Kemeny</IRI>
-        <Literal xml:lang="ro">John G. Kemeny</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/John_McCarthy</IRI>
-        <Literal xml:lang="ro">John McCarthy</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Ken_Thompson</IRI>
-        <Literal xml:lang="ro">Ken Thompson</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Kotlin</IRI>
         <Literal xml:lang="ro">Kotlin</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Larry_Wall</IRI>
-        <Literal xml:lang="ro">Larry Wall</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4110,11 +4130,6 @@
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
         <IRI>http://webprotege.stanford.edu/NOT_NULL</IRI>
         <Literal>specifica faptul ca o coloana nu poate avea valoarea nula</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Niklaus_Wirth</IRI>
-        <Literal xml:lang="ro">Niklaus Wirth</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4278,16 +4293,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Rob_Pike</IRI>
-        <Literal xml:lang="ro">Rob Pike</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Robert_Griesemer</IRI>
-        <Literal xml:lang="ro">Robert Griesemer</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://webprotege.stanford.edu/Ruby</IRI>
         <Literal xml:lang="ro">Ruby</Literal>
     </AnnotationAssertion>
@@ -4390,11 +4395,6 @@
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
         <IRI>http://webprotege.stanford.edu/Ternari</IRI>
         <Literal>Un operator ternar este un operator care are trei argumente;</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://webprotege.stanford.edu/Thomas_E._Kurtz</IRI>
-        <Literal xml:lang="ro">Thomas E. Kurtz</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
