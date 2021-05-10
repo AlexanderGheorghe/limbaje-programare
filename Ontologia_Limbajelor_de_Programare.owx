@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4"
+     xml:base="http://www.semanticweb.org/user/ontologies/2021/3/limbaje-de-programare"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4">
+     ontologyIRI="http://www.semanticweb.org/user/ontologies/2021/3/limbaje-de-programare">
     <Prefix name="" IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
@@ -379,19 +379,19 @@
         <Class IRI="http://webprotege.stanford.edu/ȘirDeCaractere"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Negare_Biti"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Negare_Biti"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#PostFixat"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#PostFixat"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Prefixat"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Prefixat"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
@@ -433,52 +433,52 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#dată"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#dată"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#datăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăAparițieLimbaj"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#datăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăNaștereAutor"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#denumireTipProcesare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#denumireTipProcesare"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#nume"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#nume"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#versiuneStabilăCurentăALimbajului"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#versiuneStabilăCurentăALimbajului"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
@@ -589,223 +589,223 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Autor_Raymond_F._Boyce"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Raymond_F._Boyce"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Abstractizare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Abstractizare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_ClauzeSQL"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ClauzeSQL"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_ConstrângeriSQL"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ConstrângeriSQL"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Interogare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Interogare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Moștenire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Moștenire"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Polimorfism"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Polimorfism"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_RDBMS"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_RDBMS"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Tabel"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Tabel"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Concept_Încapsulare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Încapsulare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ConcepteOrientatePeDocumente"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteOrientatePeDocumente"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ConcepteProcedurală"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteProcedurală"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ConcepteProgramareOrientatăPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteProgramareOrientatăPeObiecte"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ConcepteProgramareaBazelorDeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteProgramareaBazelorDeDate"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDateSpecifice"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDateSpecifice"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDatesql"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDatesql"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#MongoDB"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#MongoDB"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorAdunare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAdunare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorAlocareCondiționată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAlocareCondiționată"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorAlocareDeMemorie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAlocareDeMemorie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorApelFunctie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorApelFunctie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorAtribuire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAtribuire"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorConjucție"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorConjucție"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDealocareDeMemorie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDealocareDeMemorie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDecrementarePostfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDecrementarePostfixată"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDecrementarePretfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDecrementarePretfixată"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDeplasarePeBiti"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDeplasarePeBiti"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDiferit"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDiferit"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorDisjunctie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDisjunctie"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorEgal"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorIncrementarePostfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIncrementarePostfixată"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorIncrementarePretfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIncrementarePretfixată"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorIndexareTablou"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIndexareTablou"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorMaiMare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorMaiMareSiEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMareSiEgal"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorMaiMic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMic"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorMaiMicSiEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMicSiEgal"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorNegare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorNegare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorNegarePeBiti"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorNegarePeBiti"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorPutere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorPutere"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorRestulÎmpărțirii"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorRestulÎmpărțirii"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorSauLogic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorSauLogic"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorScădere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorScădere"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorSiLogic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorSiLogic"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatoriiDePrioritateaOperațiilor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatoriiDePrioritateaOperațiilor"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorulDeAccesLaMembrii"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorulDeAccesLaMembrii"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorÎmpărțire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorÎmpărțire"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#OperatorÎnmulțire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorÎnmulțire"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăFuncțională"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăFuncțională"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăLogică"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăLogică"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăMultiparadigmă"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăMultiparadigmă"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăOrientatăPeTabele"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientatăPeTabele"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăParalelă"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăParalelă"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ParadigmăProcedurală"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăProcedurală"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipSirCaractere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipSirCaractere"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TipStructura"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipStructura"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Autor_Oracle_Corporation&apos;s"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Oracle_Corporation&apos;s"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
@@ -903,7 +903,7 @@
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -1061,7 +1061,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/Declarativă"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/Decrementare"/>
@@ -1171,7 +1171,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/Imperativă"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/Incapsulare"/>
@@ -1239,7 +1239,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/MultiParadigmă"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/Multiplicativi"/>
@@ -1267,7 +1267,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/OrientatăPeTabele"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/PRIMARY_KEY"/>
@@ -1516,15 +1516,15 @@
         <Class IRI="http://webprotege.stanford.edu/TipDeDată"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Negare_Biti"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Negare_Biti"/>
         <Class IRI="http://webprotege.stanford.edu/PeBiți"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#PostFixat"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#PostFixat"/>
         <Class IRI="http://webprotege.stanford.edu/Incrementare"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Prefixat"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Prefixat"/>
         <Class IRI="http://webprotege.stanford.edu/Incrementare"/>
     </SubClassOf>
     <DisjointClasses>
@@ -1603,11 +1603,11 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Binari"/>
@@ -1683,11 +1683,11 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/ConceptulApelDeProcedură"/>
@@ -1762,11 +1762,11 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Instrucțiuni"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Instrucțiuni"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Lung"/>
@@ -1786,11 +1786,11 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Operatori"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/Operatori"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/OrientataPeObiecte"/>
@@ -1817,23 +1817,23 @@
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/TipDeDată"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/TipDeDată"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/TipProcesare"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="http://webprotege.stanford.edu/TipProcesare"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#LimbajDeProgramare"/>
-        <Class IRI="#Paradigma"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
@@ -1852,7 +1852,7 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Go"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1864,7 +1864,7 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Guido_van_Rossum"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Haskell"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1872,7 +1872,7 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/JavaScript"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1892,7 +1892,7 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Ken_Thompson"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Kotlin"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1900,27 +1900,27 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Larry_Wall"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/MATLAB"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1928,15 +1928,15 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Niklaus_Wirth"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Pharo"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Prolog"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Python"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1948,15 +1948,15 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Robert_Griesemer"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Ruby"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Rust"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Swift"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -1964,287 +1964,287 @@
         <NamedIndividual IRI="http://webprotege.stanford.edu/Thomas_E._Kurtz"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/TypeScript"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/VB.NET"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Abstractizare"/>
-        <NamedIndividual IRI="#Concept_Abstractizare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Abstractizare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Clauze"/>
-        <NamedIndividual IRI="#Concept_ClauzeSQL"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ClauzeSQL"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Constrangeri"/>
-        <NamedIndividual IRI="#Concept_ConstrângeriSQL"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ConstrângeriSQL"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Interogare"/>
-        <NamedIndividual IRI="#Concept_Interogare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Interogare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Moștenire"/>
-        <NamedIndividual IRI="#Concept_Moștenire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Moștenire"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Polimorfism"/>
-        <NamedIndividual IRI="#Concept_Polimorfism"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Polimorfism"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/RDBMS"/>
-        <NamedIndividual IRI="#Concept_RDBMS"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_RDBMS"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Tabel"/>
-        <NamedIndividual IRI="#Concept_Tabel"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Tabel"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Incapsulare"/>
-        <NamedIndividual IRI="#Concept_Încapsulare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Încapsulare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/ConcepteOrientatePeDocumente"/>
-        <NamedIndividual IRI="#ConcepteOrientatePeDocumente"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteOrientatePeDocumente"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/ConcepteProcedurală"/>
-        <NamedIndividual IRI="#ConcepteProcedurală"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteProcedurală"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Decizionale"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/InstructiuniManipulareDateSpecifice"/>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDateSpecifice"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDateSpecifice"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/InstructiuniManipulareDate"/>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDatesql"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDatesql"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Repetitive"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Simple"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#LimbajDeProgramare"/>
-        <NamedIndividual IRI="#MongoDB"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#MongoDB"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
             <Class IRI="http://webprotege.stanford.edu/OrientataPeDate"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="#MongoDB"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#MongoDB"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Adunare"/>
-        <NamedIndividual IRI="#OperatorAdunare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAdunare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/AlocareCondiționată"/>
-        <NamedIndividual IRI="#OperatorAlocareCondiționată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAlocareCondiționată"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/AlocareDeMemorie"/>
-        <NamedIndividual IRI="#OperatorAlocareDeMemorie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAlocareDeMemorie"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/ApelFuncție"/>
-        <NamedIndividual IRI="#OperatorApelFunctie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorApelFunctie"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Atribuire"/>
-        <NamedIndividual IRI="#OperatorAtribuire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAtribuire"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Conjucție"/>
-        <NamedIndividual IRI="#OperatorConjucție"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorConjucție"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/DealocareDeMemorie"/>
-        <NamedIndividual IRI="#OperatorDealocareDeMemorie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDealocareDeMemorie"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Postfixată"/>
-        <NamedIndividual IRI="#OperatorDecrementarePostfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDecrementarePostfixată"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Prefixată"/>
-        <NamedIndividual IRI="#OperatorDecrementarePretfixată"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDecrementarePretfixată"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/DeplasarePeBiți"/>
-        <NamedIndividual IRI="#OperatorDeplasarePeBiti"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDeplasarePeBiti"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Diferit"/>
-        <NamedIndividual IRI="#OperatorDiferit"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDiferit"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Disjuncție"/>
-        <NamedIndividual IRI="#OperatorDisjunctie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorDisjunctie"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Egal"/>
-        <NamedIndividual IRI="#OperatorEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorEgal"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Prefixat"/>
-        <NamedIndividual IRI="#OperatorIncrementarePostfixată"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Prefixat"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIncrementarePostfixată"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#PostFixat"/>
-        <NamedIndividual IRI="#OperatorIncrementarePretfixată"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#PostFixat"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIncrementarePretfixată"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/IndexareTablou"/>
-        <NamedIndividual IRI="#OperatorIndexareTablou"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorIndexareTablou"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/MaiMare"/>
-        <NamedIndividual IRI="#OperatorMaiMare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/MaiMareSiEgal"/>
-        <NamedIndividual IRI="#OperatorMaiMareSiEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMareSiEgal"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/MaiMic"/>
-        <NamedIndividual IRI="#OperatorMaiMic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMic"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/MaiMicSiEgal"/>
-        <NamedIndividual IRI="#OperatorMaiMicSiEgal"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorMaiMicSiEgal"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Negare_Biti"/>
-        <NamedIndividual IRI="#OperatorNegarePeBiti"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Negare_Biti"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorNegarePeBiti"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/RidicareLaPutere"/>
-        <NamedIndividual IRI="#OperatorPutere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorPutere"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/RestulÎmpărțirii"/>
-        <NamedIndividual IRI="#OperatorRestulÎmpărțirii"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorRestulÎmpărțirii"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/SauLogic"/>
-        <NamedIndividual IRI="#OperatorSauLogic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorSauLogic"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Scădere"/>
-        <NamedIndividual IRI="#OperatorScădere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorScădere"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/ȘiLogic"/>
-        <NamedIndividual IRI="#OperatorSiLogic"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorSiLogic"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/PrioritateaOperațiilor"/>
-        <NamedIndividual IRI="#OperatoriiDePrioritateaOperațiilor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatoriiDePrioritateaOperațiilor"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/OperatorulDeAccesLaMembrii"/>
-        <NamedIndividual IRI="#OperatorulDeAccesLaMembrii"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorulDeAccesLaMembrii"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Împarțire"/>
-        <NamedIndividual IRI="#OperatorÎmpărțire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorÎmpărțire"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Înmulțire"/>
-        <NamedIndividual IRI="#OperatorÎnmulțire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorÎnmulțire"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Functionala"/>
-        <NamedIndividual IRI="#ParadigmăFuncțională"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăFuncțională"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Logica"/>
-        <NamedIndividual IRI="#ParadigmăLogică"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăLogică"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/MultiParadigmă"/>
-        <NamedIndividual IRI="#ParadigmăMultiparadigmă"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăMultiparadigmă"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/OrientataPeDate"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/OrientataPeObiecte"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/OrientatăPeTabele"/>
-        <NamedIndividual IRI="#ParadigmăOrientatăPeTabele"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientatăPeTabele"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Paralelă"/>
-        <NamedIndividual IRI="#ParadigmăParalelă"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăParalelă"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Procedurală"/>
-        <NamedIndividual IRI="#ParadigmăProcedurală"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăProcedurală"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Booleană"/>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Caracter"/>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Clasă"/>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Compilare"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Interpretare"/>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Enumerativă"/>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Flotantă"/>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Întreg"/>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/ȘirDeCaractere"/>
-        <NamedIndividual IRI="#TipSirCaractere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipSirCaractere"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="http://webprotege.stanford.edu/Structură"/>
-        <NamedIndividual IRI="#TipStructura"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipStructura"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
@@ -2284,7 +2284,7 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#ParadigmăFuncțională"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăFuncțională"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
@@ -2294,137 +2294,137 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipStructura"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipStructura"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#OperatorAdunare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAdunare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipSirCaractere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipSirCaractere"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipStructura"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipStructura"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
@@ -2434,147 +2434,147 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#OperatorAdunare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAdunare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#OperatorAlocareDeMemorie"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAlocareDeMemorie"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#OperatorAtribuire"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorAtribuire"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#OperatorulDeAccesLaMembrii"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#OperatorulDeAccesLaMembrii"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipSirCaractere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipSirCaractere"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#ParadigmăOrientatăPeTabele"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientatăPeTabele"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDateSpecifice"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDateSpecifice"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#InstrucțiuniManipulareDatesql"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniManipulareDatesql"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
@@ -2584,416 +2584,416 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#InstrucțiuniDecizionale"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniDecizionale"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#InstrucțiuniRepetitive"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniRepetitive"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#InstrucțiuniSimple"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#InstrucțiuniSimple"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipBoolean"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipBoolean"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipCaracter"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipCaracter"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipClasa"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipClasa"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipEnumerare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipEnumerare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipFlotanta"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipFlotanta"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipIntreg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipIntreg"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipSirCaractere"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipSirCaractere"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipStructura"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipStructura"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="#Autor_Raymond_F._Boyce"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Raymond_F._Boyce"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
-        <NamedIndividual IRI="#Concept_ClauzeSQL"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ClauzeSQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
-        <NamedIndividual IRI="#Concept_ConstrângeriSQL"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_ConstrângeriSQL"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
-        <NamedIndividual IRI="#Concept_Interogare"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Interogare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
-        <NamedIndividual IRI="#Concept_RDBMS"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_RDBMS"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeDate"/>
-        <NamedIndividual IRI="#Concept_Tabel"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeDate"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Tabel"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
-        <NamedIndividual IRI="#Concept_Abstractizare"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Abstractizare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
-        <NamedIndividual IRI="#Concept_Moștenire"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Moștenire"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
-        <NamedIndividual IRI="#Concept_Polimorfism"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Polimorfism"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăOrientataPeObiecte"/>
-        <NamedIndividual IRI="#Concept_Încapsulare"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăOrientataPeObiecte"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Concept_Încapsulare"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#areConcepParadigma"/>
-        <NamedIndividual IRI="#ParadigmăProcedurală"/>
-        <NamedIndividual IRI="#ConcepteProcedurală"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ParadigmăProcedurală"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ConcepteProcedurală"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
-        <NamedIndividual IRI="#Autor_Oracle_Corporation&apos;s"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Oracle_Corporation&apos;s"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1950</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
         <Literal>Bjarne Stroustrup</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Autor_Bjarne_Stroustrup"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">30</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1942</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
         <Literal>Brian Kernighan</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Brian_Kernighan"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1941</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
         <Literal>Dennis Ritchie</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Dennis_Ritchie"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">9</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1955</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">5</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
         <Literal>James Arthur Gosling</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/James_Gosling"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">19</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1972</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
         <Literal>C</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#versiuneStabilăCurentăALimbajului"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#versiuneStabilăCurentăALimbajului"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C"/>
         <Literal>ISO/IEC 9899:2018</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2002</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_CSharp"/>
         <Literal>C Sharp</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
         <Literal>Java</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_Java"/>
         <Literal>Java SE 15</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1995</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">6</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
         <Literal>PHP: Hypertext Preprocessor</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#versiuneStabilăCurentăALimbajului"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#versiuneStabilăCurentăALimbajului"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_PHP"/>
         <Literal>8.0.5; Released: 29 Apr 2021</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1970</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbajul_SQL"/>
         <Literal>Structured Query Language</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1985</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">10</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
         <Literal>CPlusPlus</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#versiuneStabilăCurentăALimbajului"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#versiuneStabilăCurentăALimbajului"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/Limbaj_C++"/>
         <Literal>C++20</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
         <NamedIndividual IRI="http://webprotege.stanford.edu/PL/Limbaj_PL_SQL"/>
         <Literal>PL/SQL</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1960</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
         <Literal>Anders Hejlsberg</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Anders_Hejlsberg"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Anders_Hejlsberg"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1944</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
         <Literal>Donald D. Chamberlin</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Donald_D._Chamberlin"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">21</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1968</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#lunăNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">10</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
         <Literal>Rasmus Lerdorf</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#ziNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Rasmus_Lerdorf"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">22</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#anNaștereAutor"/>
-        <NamedIndividual IRI="#Autor_Raymond_F._Boyce"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Raymond_F._Boyce"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1946</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="#Autor_Raymond_F._Boyce"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Raymond_F._Boyce"/>
         <Literal>Raymond F. Boyce</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#denumireTipProcesare"/>
-        <NamedIndividual IRI="#TipDeProcesare_Compilare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#denumireTipProcesare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Compilare"/>
         <Literal>Compilare</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#denumireTipProcesare"/>
-        <NamedIndividual IRI="#TipDeProcesare_Interpretare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#denumireTipProcesare"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#TipDeProcesare_Interpretare"/>
         <Literal>Interpretare</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#numeAutor"/>
-        <NamedIndividual IRI="#Autor_Oracle_Corporation&apos;s"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Oracle_Corporation&apos;s"/>
         <Literal>Oracle Corporation&apos;s</Literal>
     </DataPropertyAssertion>
     <SubObjectPropertyOf>
@@ -3021,15 +3021,15 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăComponentă"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
@@ -3046,7 +3046,7 @@
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
@@ -3061,14 +3061,14 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
-        <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
     </InverseObjectProperties>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
@@ -3082,7 +3082,7 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/creeazăLimbajul"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
@@ -3109,7 +3109,7 @@
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
             <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
@@ -3138,70 +3138,70 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăComponentă"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăInstrucțiuni"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăOperatori"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteOperatorPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/prezintăTipuriDeDate"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteTipDeDataPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
-            <Class IRI="#Paradigma"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
-            <Class IRI="#Paradigma"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#iSeAplicaProcesarea"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/corespundeUneiParadigme"/>
-            <Class IRI="#Paradigma"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/creatDeAutor"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -3215,35 +3215,35 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteComponentăPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteConceptPentru"/>
-            <Class IRI="#Paradigma"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteInstrucțiunePentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteOperatorPentru"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteOperatorPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="http://webprotege.stanford.edu/esteTipDeDataPentru"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/esteTipDeDataPentru"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -3292,27 +3292,27 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
-            <Class IRI="#LimbajDeProgramare"/>
+            <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#areConcepParadigma"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#areConcepParadigma"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma"/>
             <Class IRI="http://webprotege.stanford.edu/ConcepteParadigmă"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#iSeAplicaProcesarea"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea"/>
             <Class IRI="http://webprotege.stanford.edu/TipProcesare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#seAplicaTipProcesarePe"/>
+            <ObjectProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe"/>
             <Class IRI="http://webprotege.stanford.edu/TipProcesare"/>
         </ObjectSomeValuesFrom>
     </ObjectPropertyRange>
@@ -3416,75 +3416,75 @@
         <ObjectProperty IRI="http://webprotege.stanford.edu/îiCorespundeUnLimbaj"/>
     </DisjointObjectProperties>
     <SubDataPropertyOf>
-        <DataProperty IRI="#anAparițieLimbaj"/>
-        <DataProperty IRI="#datăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăAparițieLimbaj"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#anNaștereAutor"/>
-        <DataProperty IRI="#datăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăNaștereAutor"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#datăAparițieLimbaj"/>
-        <DataProperty IRI="#dată"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#dată"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#datăNaștereAutor"/>
-        <DataProperty IRI="#dată"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#dată"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
-        <DataProperty IRI="#datăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăAparițieLimbaj"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#lunăNaștereAutor"/>
-        <DataProperty IRI="#datăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăNaștereAutor"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#numeAutor"/>
-        <DataProperty IRI="#nume"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#nume"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
-        <DataProperty IRI="#nume"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#nume"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#ziNaștereAutor"/>
-        <DataProperty IRI="#datăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#ziNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#datăNaștereAutor"/>
     </SubDataPropertyOf>
     <DataPropertyDomain>
-        <DataProperty IRI="#anAparițieLimbaj"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anAparițieLimbaj"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#anNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#anNaștereAutor"/>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#dată"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#dată"/>
         <DataSomeValuesFrom>
-            <DataProperty IRI="#dată"/>
+            <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#dată"/>
             <Datatype abbreviatedIRI="xsd:integer"/>
         </DataSomeValuesFrom>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#lunăAparițieLimbaj"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăAparițieLimbaj"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#lunăNaștereAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#lunăNaștereAutor"/>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#numeAutor"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeAutor"/>
         <Class IRI="http://webprotege.stanford.edu/Autor"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#numeLimbajDeProgramare"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#numeLimbajDeProgramare"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#versiuneStabilăCurentăALimbajului"/>
-        <Class IRI="#LimbajDeProgramare"/>
+        <DataProperty IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#versiuneStabilăCurentăALimbajului"/>
+        <Class IRI="http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare"/>
     </DataPropertyDomain>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4608,57 +4608,57 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Autor_Donald_D._Chamberlin</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Donald_D._Chamberlin</IRI>
         <Literal>Donald D. Chamberlin</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Autor_Rasmus_Lerdorf</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Rasmus_Lerdorf</IRI>
         <Literal>Rasmus Lerdorf</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#Autor_Raymond_F._Boyce</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Autor_Raymond_F._Boyce</IRI>
         <Literal>Raymond F. Boyce</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#LimbajDeProgramare</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#LimbajDeProgramare</IRI>
         <Literal xml:lang="ro">LimbajDeProgramare</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#MongoDB</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#MongoDB</IRI>
         <Literal>MongoDB este o bază de date NoSQL open-source orientată pe documente;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#Paradigma</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#Paradigma</IRI>
         <Literal xml:lang="ro">Paradigmă</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#areConcepParadigma</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma</IRI>
         <Literal xml:lang="ro">Un Concep Paradigmă descrie/ compuneParadigma.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#areConcepParadigma</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#areConcepParadigma</IRI>
         <Literal xml:lang="ro">descrieOParadigmă</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#iSeAplicaProcesarea</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#iSeAplicaProcesarea</IRI>
         <Literal xml:lang="ro">Unui Limbaj i se aplica(minim) un tip de procesare.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#seAplicaTipProcesarePe</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe</IRI>
         <Literal xml:lang="ro">(minim) Un Tip Procesare se aplica Unui Limbaj.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#seAplicaTipProcesarePe</IRI>
+        <IRI>http://www.semanticweb.org/user/ontologies/2021/3/untitled-ontology-4#seAplicaTipProcesarePe</IRI>
         <Literal xml:lang="ro">iSeAplicaUnTipProcesare</Literal>
     </AnnotationAssertion>
 </Ontology>
